@@ -1,0 +1,16 @@
+// Output
+Enter number of songs: 2
+Enter song title: Makaiya me raja ji
+Enter artist name: Pawan Singh
+Enter song title: Hanuman Chalisa
+Enter artist name: lakha
+
+Playlist Queue:
+Makaiya me raja ji by Pawan Singh
+Hanuman Chalisa by lakha
+
+After Shuffling:
+
+Playlist Queue:
+Makaiya me raja ji by Pawan Singh
+Hanuman Chalisa by lakha
